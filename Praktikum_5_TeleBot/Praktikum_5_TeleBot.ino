@@ -16,12 +16,12 @@ const char* ssid = "Galaxy";
 const char* password = "Alfarrel";
 
 // Initialize Telegram BOT
-#define BOTtoken "8163683880:AAH8TJTy-x9TcVSNTsuwyrsHm-MAmFPVU4M"  // your Bot Token (Get from Botfather)
+#define BOTtoken "xxxxxxxx"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "1554419883"
+#define CHAT_ID "xxxxxxxxx"
 
 #ifdef ESP8266
   X509List cert(TELEGRAM_CERTIFICATE_ROOT);
